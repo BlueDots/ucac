@@ -1,0 +1,11 @@
+<div align="center">
+<p align="center"><h2><font color= #FF0000>江西省大学生精品活动展</font></h2></p>
+<p align="left">尊敬的申报人员,您好:</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;首先，非常感谢您积极地参与本次大学生精品活动展，本次活动的主旨是:&#8220;传递正能量&nbsp;实现中国梦&#8221;.但是在管理员审核过程中发现您所上传的作品存在一些问题,这些问题可能是:</p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color= #FF0000>1.作品格式和要求不符合(请仔细仔细查看下发文件对于作品的要求);</font></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color= #FF0000>2.作品内容不符合，含有不良信息;</font></p>
+<p align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color= #FF0000>3.作品内容不完整;</font></p>
+<h3 align="left"><font color= #FF0000>请注意！！！</font></h3>
+<h3 align="left">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color= #FF0000>请您务必在作品提交截止日期之前重新上传您修改后不存在问题的作品，否则将取消您的比赛资格.我们希望在活动展中再次看到您社团靓丽的身影，谢谢配合！！</font></h3>
+<h4 align="left"><font color= #FF0000><a href="">点击马上进入江西省大学生精品活动展首页进行登陆</a></font></h4>
+</div>

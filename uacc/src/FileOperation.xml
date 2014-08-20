@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	restoreDatabasePath:恢复(备份)数据库sql文件的地址
+	databaseName:恢复(备份)的数据库名
+	mysqlBinPath:数据库bin文件的地址(必须 以'/结尾')
+	backupAll:备份全部的地址(必须 以'/结尾')
+-->
+
+<root>
+	<file function="databaseName">
+		<path>ucac</path>
+	</file>
+	<file function="restoreDatabasePath">
+		<path>C:/UCAC/ucac.sql</path>
+	</file>
+	<file function="mysqlBinPath">
+		<path>C:/mysql5.5/bin/</path>
+	</file>
+	<file function="backupAll">
+		<path>C:/UCAC/</path>
+	</file>
+</root>
