@@ -14,7 +14,7 @@ JXAU1/JX298000
 
 后台账号
 =======
-email 我<anpingxiong@foxmail.com>
+
 
 
 
